@@ -8,4 +8,4 @@
 5. Square-Root Decomposition- https://iishanto.com/square-root-decomposition-bangla-tutorial/?fbclid=IwAR36m1KutvHbqiM9LBf1rLcFo78Wnm1yVmRpbyLu55E8KhGqRpxgzCAeIX0
 6. DP examples- https://blog.usejournal.com/top-50-dynamic-programming-practice-problems-4208fed71aa3
 7. codeforces all resources- https://codeforces.com/blog/entry/23054?fbclid=IwAR3IDJfz8C2jI4FPnLsgOuvDuhmZDy8EYc2x3mydZ1YXQbwyz-6tnCOGJ0w
-
+8. codeforces problem set for beginners: https://codeforces.com/group/MWSDmqGsZm/contests
